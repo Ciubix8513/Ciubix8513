@@ -1,6 +1,7 @@
 ## Hi I'm Luna
 I'm just an 18 yo russian girl who *loves* programming. I'm also trans, my pronouns are She/They
 
+[![wakatime](https://wakatime.com/badge/user/31b6db48-df50-4e7f-b450-e41a3a005d97.svg)]
 I've been programming in one way or another since I was 6, tho I didn't start writing actual code until I was ~12
 
 
