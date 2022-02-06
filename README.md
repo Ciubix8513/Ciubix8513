@@ -1,10 +1,6 @@
 ## Hi I'm Luna  
 I'm just an 18 yo russian girl who *loves* programming. I'm also trans, my pronouns are She/They
 
-
-I've been programming in one way or another since I was 6, tho I didn't start writing actual code until I was ~12
-
-
 Computer graphics is my favourite thing to code, I just love that you can *actually* see what you're doing
 
 
